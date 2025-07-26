@@ -1,0 +1,24 @@
+{
+  "name": "review",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/katarina-andrews/node-review.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/katarina-andrews/node-review/issues"
+  },
+  "homepage": "https://github.com/katarina-andrews/node-review#readme",
+  "dependencies": {
+    "chalk": "^5.4.1"
+  }
+}
